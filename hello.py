@@ -1,3 +1,3 @@
-just print hello world
+#just print hello world
 print ("Hello World!")
 
